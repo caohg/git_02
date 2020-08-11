@@ -8,6 +8,7 @@ class Git02ApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("v1.0");
     }
 
 }
